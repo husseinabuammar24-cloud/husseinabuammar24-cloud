@@ -13,7 +13,7 @@ Life Sciences Ph.D. with 6+ years of quantitative R&D experience, now building P
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 - **Data Analysis & ML:** Pandas • NumPy • Scikit-Learn • Regression & statistical testing • Computer Vision
-- **Data Engineering:** Automated ETL pipelines • Normalized SQL design (ERD, 3NF) • API integration • Idempotent loads
+- **Data Engineering:** Automated ETL pipelines • Normalized SQL design (ERD) • API integration • Idempotent loads
 - **Cloud & Reporting:** Azure Functions • Azure SQL • GitHub Actions (CI/CD) • Power BI (DAX) • Docker
 
 ---

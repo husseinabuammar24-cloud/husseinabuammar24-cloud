@@ -65,4 +65,3 @@ Life Sciences Ph.D. with 6+ years of quantitative R&D experience, now building P
 ## 📬 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/hussein-abuammar)
 - 📧 [husseinabuammar24@gmail.com](mailto:husseinabuammar24@gmail.com)
-- 📍 **Location:** Brussels, Belgium (Belgian Work Permit / Immediately Available)

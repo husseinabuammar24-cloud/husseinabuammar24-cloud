@@ -9,7 +9,8 @@ I excel at maintaining audit-ready documentation and translating intricate techn
 
 ## 🎯 Technical Toolkit
 
-![Python](https://shields.io) ![SQL](https://shields.io) ![Azure](https://shields.io) ![Power BI](https://shields.io) ![PyTorch](https://shields.io) ![FastAPI](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 
 - **Data & AI:** SQL Data Modeling (ERD, 3NF) • Pandas & NumPy • Scikit-Learn • GenAI & LLMs (RAG) • Computer Vision
 - **Data Engineering:** Automated Pipelines • Serverless Cloud Compute • API Integrations • Idempotent Architecture

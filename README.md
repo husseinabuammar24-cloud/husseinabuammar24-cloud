@@ -47,7 +47,7 @@ Life Sciences Ph.D. with 6+ years of quantitative R&D experience, now building P
 - Documented error patterns and limitations rather than only reporting the headline metric.
 - **What it shows:** honest model evaluation on biomedical data.
 
-### 🧬 [VCF Annotator](https://github.com/husseinabuammar24-cloud/REPLACE-WITH-REPO-NAME)
+### 🧬 [VCF Annotator](https://github.com/husseinabuammar24-cloud/VCF_annotator/tree/main)
 - Python pipeline parsing VCF files and annotating variants via Ensembl VEP and MyVariant.info.
 - Filtered HTML reports referencing ClinVar and gnomAD.
 - **What it shows:** genomic data handling and API integration.
